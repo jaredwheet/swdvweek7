@@ -1,0 +1,20 @@
+{
+  "name": "swdvweek7",
+  "version": "1.0.0",
+  "description": "week7 homework for UX design class",
+  "main": "data-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredwheet/swdvweek7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredwheet/swdvweek7/issues"
+  },
+  "homepage": "https://github.com/jaredwheet/swdvweek7#readme"
+}
